@@ -1,7 +1,8 @@
 # Vax-SafePaths
 This is the team page for building a paper card + app based solution for coordinated vaccination with the help of PathCheck Foundation, MIT, IDEO and other partners.
 ***
-### [Pitch Video](https://youtu.be/jXa3mArrOfA)
+### [Pitch Video](https://youtu.be/jXa3mArrOfA/)
+[![Pitch Video]http://i3.ytimg.com/vi/jXa3mArrOfA/maxresdefault.jpg](https://youtu.be/jXa3mArrOfA/)
 
 ### VaccineDiary: Algorithmic Protocol, E-card, Mobile App and Research Papers
 We present an end to end decentralized protocol developed by MIT for the secure and privacy preserving workflow of phased vaccination, vaccination status verification, and adverse reactions or symptoms reporting. The proposed system improves the efficiency, privacy, equity and effectiveness by augmenting the existing systems such as VAMS, VAERS, v-safe and IIS.
